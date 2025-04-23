@@ -1,0 +1,132 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\NEtCore\\K23Cnt3_VuThanh_NetCoreLearning\\VdmtLesson1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC0DF568-4549-4966-BAA8-6742ED7B3ADC}|..\\VdmtLesson1Mvc\\VdmtLesson1Mvc.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\netcore\\k23cnt3_vuthanh_netcorelearning\\vdmtlesson1mvc\\views\\vdmthome\\vdmtindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC0DF568-4549-4966-BAA8-6742ED7B3ADC}|..\\VdmtLesson1Mvc\\VdmtLesson1Mvc.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\netcore\\k23cnt3_vuthanh_netcorelearning\\vdmtlesson1mvc\\views\\vdmthome\\vdmtabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC0DF568-4549-4966-BAA8-6742ED7B3ADC}|..\\VdmtLesson1Mvc\\VdmtLesson1Mvc.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\netcore\\k23cnt3_vuthanh_netcorelearning\\vdmtlesson1mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC0DF568-4549-4966-BAA8-6742ED7B3ADC}|..\\VdmtLesson1Mvc\\VdmtLesson1Mvc.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\netcore\\k23cnt3_vuthanh_netcorelearning\\vdmtlesson1mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC0DF568-4549-4966-BAA8-6742ED7B3ADC}|..\\VdmtLesson1Mvc\\VdmtLesson1Mvc.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\netcore\\k23cnt3_vuthanh_netcorelearning\\vdmtlesson1mvc\\controllers\\vdmthomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC0DF568-4549-4966-BAA8-6742ED7B3ADC}|..\\VdmtLesson1Mvc\\VdmtLesson1Mvc.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\netcore\\k23cnt3_vuthanh_netcorelearning\\vdmtlesson1mvc\\views\\shared\\_vdmtlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC0DF568-4549-4966-BAA8-6742ED7B3ADC}|..\\VdmtLesson1Mvc\\VdmtLesson1Mvc.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\netcore\\k23cnt3_vuthanh_netcorelearning\\vdmtlesson1mvc\\views\\shared\\_vdmtlayout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\NEtCore\\K23Cnt3_VuThanh_NetCoreLearning\\VdmtLesson1Mvc\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "..\\VdmtLesson1Mvc\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\NEtCore\\K23Cnt3_VuThanh_NetCoreLearning\\VdmtLesson1Mvc\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "..\\VdmtLesson1Mvc\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-23T02:52:36.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\NEtCore\\K23Cnt3_VuThanh_NetCoreLearning\\VdmtLesson1Mvc\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "..\\VdmtLesson1Mvc\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\NEtCore\\K23Cnt3_VuThanh_NetCoreLearning\\VdmtLesson1Mvc\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "..\\VdmtLesson1Mvc\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-23T02:52:27.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_VdmtLayout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\NEtCore\\K23Cnt3_VuThanh_NetCoreLearning\\VdmtLesson1Mvc\\Views\\Shared\\_VdmtLayout.cshtml.css",
+              "RelativeDocumentMoniker": "..\\VdmtLesson1Mvc\\Views\\Shared\\_VdmtLayout.cshtml.css",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\NEtCore\\K23Cnt3_VuThanh_NetCoreLearning\\VdmtLesson1Mvc\\Views\\Shared\\_VdmtLayout.cshtml.css",
+              "RelativeToolTip": "..\\VdmtLesson1Mvc\\Views\\Shared\\_VdmtLayout.cshtml.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-23T02:49:22.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_VdmtLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\NEtCore\\K23Cnt3_VuThanh_NetCoreLearning\\VdmtLesson1Mvc\\Views\\Shared\\_VdmtLayout.cshtml",
+              "RelativeDocumentMoniker": "..\\VdmtLesson1Mvc\\Views\\Shared\\_VdmtLayout.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\NEtCore\\K23Cnt3_VuThanh_NetCoreLearning\\VdmtLesson1Mvc\\Views\\Shared\\_VdmtLayout.cshtml",
+              "RelativeToolTip": "..\\VdmtLesson1Mvc\\Views\\Shared\\_VdmtLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-23T02:43:19.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VdmtAbout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\NEtCore\\K23Cnt3_VuThanh_NetCoreLearning\\VdmtLesson1Mvc\\Views\\VdmtHome\\VdmtAbout.cshtml",
+              "RelativeDocumentMoniker": "..\\VdmtLesson1Mvc\\Views\\VdmtHome\\VdmtAbout.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\NEtCore\\K23Cnt3_VuThanh_NetCoreLearning\\VdmtLesson1Mvc\\Views\\VdmtHome\\VdmtAbout.cshtml",
+              "RelativeToolTip": "..\\VdmtLesson1Mvc\\Views\\VdmtHome\\VdmtAbout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-23T02:22:19.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VdmtIndex.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\NEtCore\\K23Cnt3_VuThanh_NetCoreLearning\\VdmtLesson1Mvc\\Views\\VdmtHome\\VdmtIndex.cshtml",
+              "RelativeDocumentMoniker": "..\\VdmtLesson1Mvc\\Views\\VdmtHome\\VdmtIndex.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\NEtCore\\K23Cnt3_VuThanh_NetCoreLearning\\VdmtLesson1Mvc\\Views\\VdmtHome\\VdmtIndex.cshtml",
+              "RelativeToolTip": "..\\VdmtLesson1Mvc\\Views\\VdmtHome\\VdmtIndex.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-23T02:17:14.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VdmtHomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\NEtCore\\K23Cnt3_VuThanh_NetCoreLearning\\VdmtLesson1Mvc\\Controllers\\VdmtHomeController.cs",
+              "RelativeDocumentMoniker": "..\\VdmtLesson1Mvc\\Controllers\\VdmtHomeController.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\NEtCore\\K23Cnt3_VuThanh_NetCoreLearning\\VdmtLesson1Mvc\\Controllers\\VdmtHomeController.cs",
+              "RelativeToolTip": "..\\VdmtLesson1Mvc\\Controllers\\VdmtHomeController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAA+wCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T02:16:29.772Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

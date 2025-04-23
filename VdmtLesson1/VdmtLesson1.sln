@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VdmtLesson1", "VdmtLesson1\VdmtLesson1.csproj", "{7A832FA8-F857-46E9-A5E2-89C45A5DA2FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VdmtLesson1Mvc", "..\VdmtLesson1Mvc\VdmtLesson1Mvc.csproj", "{DC0DF568-4549-4966-BAA8-6742ED7B3ADC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A832FA8-F857-46E9-A5E2-89C45A5DA2FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A832FA8-F857-46E9-A5E2-89C45A5DA2FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A832FA8-F857-46E9-A5E2-89C45A5DA2FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A832FA8-F857-46E9-A5E2-89C45A5DA2FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC0DF568-4549-4966-BAA8-6742ED7B3ADC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC0DF568-4549-4966-BAA8-6742ED7B3ADC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC0DF568-4549-4966-BAA8-6742ED7B3ADC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC0DF568-4549-4966-BAA8-6742ED7B3ADC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C76428F-2FE9-4450-B801-30F11130A672}
+	EndGlobalSection
+EndGlobal
