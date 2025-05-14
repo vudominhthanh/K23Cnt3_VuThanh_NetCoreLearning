@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\NEtCore\\VdmtLesson03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5859C27D-DE9E-4379-BFCF-8455C3D6884B}|VdmtLesson03\\VdmtLesson03.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\netcore\\vdmtlesson03\\vdmtlesson03\\views\\shared\\_vdmtlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5859C27D-DE9E-4379-BFCF-8455C3D6884B}|VdmtLesson03\\VdmtLesson03.csproj|solutionrelative:vdmtlesson03\\views\\shared\\_vdmtlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5859C27D-DE9E-4379-BFCF-8455C3D6884B}|VdmtLesson03\\VdmtLesson03.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\netcore\\vdmtlesson03\\vdmtlesson03\\views\\vdmthome\\vdmtindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5859C27D-DE9E-4379-BFCF-8455C3D6884B}|VdmtLesson03\\VdmtLesson03.csproj|solutionrelative:vdmtlesson03\\views\\vdmthome\\vdmtindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VdmtIndex.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\NEtCore\\VdmtLesson03\\VdmtLesson03\\Views\\VdmtHome\\VdmtIndex.cshtml",
+              "RelativeDocumentMoniker": "VdmtLesson03\\Views\\VdmtHome\\VdmtIndex.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\NEtCore\\VdmtLesson03\\VdmtLesson03\\Views\\VdmtHome\\VdmtIndex.cshtml",
+              "RelativeToolTip": "VdmtLesson03\\Views\\VdmtHome\\VdmtIndex.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-07T01:55:18.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_VdmtLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\NEtCore\\VdmtLesson03\\VdmtLesson03\\Views\\Shared\\_VdmtLayout.cshtml",
+              "RelativeDocumentMoniker": "VdmtLesson03\\Views\\Shared\\_VdmtLayout.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\NEtCore\\VdmtLesson03\\VdmtLesson03\\Views\\Shared\\_VdmtLayout.cshtml*",
+              "RelativeToolTip": "VdmtLesson03\\Views\\Shared\\_VdmtLayout.cshtml*",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-07T01:42:39.694Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VdmtLesson1Mvc")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+58cb512b6ab999d0b8c85043aecc59f5bf71409d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2abf6f9957ed643f55772e5a6513b42df98a1d5f")]
 [assembly: System.Reflection.AssemblyProductAttribute("VdmtLesson1Mvc")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VdmtLesson1Mvc")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

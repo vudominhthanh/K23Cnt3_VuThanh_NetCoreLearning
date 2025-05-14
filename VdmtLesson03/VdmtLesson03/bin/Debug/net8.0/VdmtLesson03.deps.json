@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "VdmtLesson03/1.0.0": {
+        "runtime": {
+          "VdmtLesson03.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VdmtLesson03/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

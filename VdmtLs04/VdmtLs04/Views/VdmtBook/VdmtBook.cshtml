@@ -1,0 +1,32 @@
+﻿@model IEnumerable<VdmtLs04.Models.VdmtBook>
+@{
+    ViewData["Title"] = "Danh sách sách";
+}
+
+<h1>Danh sách sách</h1>
+<a asp-action="VdmtCreate" class="btn btn-primary">Them moi</a>
+<table class="table">
+    <thead>
+        <tr>
+            <th>BookId</th>
+            <th>Title</th>
+            <th>Decription</th>
+            <th>Image</th>
+            <th>Price</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (VdmtBook book in Model)
+        {
+            <tr>
+                <td>@book.VdmtId</td>
+                <td>@book.VdmtTitle</td>
+                <td>@book.VdmtDescription</td>
+                <td>
+                    <img src="@book.VdmtImage" alt="@book.VdmtTitle" style="width: 100px; height: 150px;" />
+                </td>
+                <td>@book.VdmtPrice</td>
+            </tr>
+        }
+    </tbody>
+</table>

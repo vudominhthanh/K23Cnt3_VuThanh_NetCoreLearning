@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\VdmtLs04.props" />
+</Project>

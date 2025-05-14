@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\Vdmt_Ls02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F943A39F-7896-4810-8297-149A4B69AB89}|Vdmt_Ls02\\Vdmt_Ls02.csproj|c:\\users\\admin\\source\\repos\\vdmt_ls02\\vdmt_ls02\\views\\shared\\_vdmtlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F943A39F-7896-4810-8297-149A4B69AB89}|Vdmt_Ls02\\Vdmt_Ls02.csproj|solutionrelative:vdmt_ls02\\views\\shared\\_vdmtlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F943A39F-7896-4810-8297-149A4B69AB89}|Vdmt_Ls02\\Vdmt_Ls02.csproj|c:\\users\\admin\\source\\repos\\vdmt_ls02\\vdmt_ls02\\views\\vdmtproduct\\vdmt.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F943A39F-7896-4810-8297-149A4B69AB89}|Vdmt_Ls02\\Vdmt_Ls02.csproj|solutionrelative:vdmt_ls02\\views\\vdmtproduct\\vdmt.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F943A39F-7896-4810-8297-149A4B69AB89}|Vdmt_Ls02\\Vdmt_Ls02.csproj|c:\\users\\admin\\source\\repos\\vdmt_ls02\\vdmt_ls02\\controllers\\vdmtproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F943A39F-7896-4810-8297-149A4B69AB89}|Vdmt_Ls02\\Vdmt_Ls02.csproj|solutionrelative:vdmt_ls02\\controllers\\vdmtproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_VdmtLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Vdmt_Ls02\\Vdmt_Ls02\\Views\\Shared\\_VdmtLayout.cshtml",
+              "RelativeDocumentMoniker": "Vdmt_Ls02\\Views\\Shared\\_VdmtLayout.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Vdmt_Ls02\\Vdmt_Ls02\\Views\\Shared\\_VdmtLayout.cshtml",
+              "RelativeToolTip": "Vdmt_Ls02\\Views\\Shared\\_VdmtLayout.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-28T02:05:15.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VdmtProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Vdmt_Ls02\\Vdmt_Ls02\\Controllers\\VdmtProductController.cs",
+              "RelativeDocumentMoniker": "Vdmt_Ls02\\Controllers\\VdmtProductController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Vdmt_Ls02\\Vdmt_Ls02\\Controllers\\VdmtProductController.cs",
+              "RelativeToolTip": "Vdmt_Ls02\\Controllers\\VdmtProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T02:01:45.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Vdmt.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Vdmt_Ls02\\Vdmt_Ls02\\Views\\VdmtProduct\\Vdmt.cshtml",
+              "RelativeDocumentMoniker": "Vdmt_Ls02\\Views\\VdmtProduct\\Vdmt.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Vdmt_Ls02\\Vdmt_Ls02\\Views\\VdmtProduct\\Vdmt.cshtml",
+              "RelativeToolTip": "Vdmt_Ls02\\Views\\VdmtProduct\\Vdmt.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-28T02:01:43.753Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

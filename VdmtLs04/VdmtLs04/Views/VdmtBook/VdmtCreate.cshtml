@@ -1,0 +1,42 @@
+﻿@model VdmtLs04.Models.VdmtBook
+
+@{
+    ViewData["Title"] = "Add New Book";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<form asp-action="VdmtCreateSubmit" method="post" enctype="multipart/form-data">
+    <div>
+        <label asp-for="VdmtTitle"></label>
+        <input asp-for="VdmtTitle" name="VdmtTitle" />
+        <span asp-validation-for="VdmtTitle"></span>
+    </div>
+    <div>
+        <label asp-for="VdmtDescription"></label>
+        <textarea asp-for="VdmtDescription" name="VdmtDescription"></textarea>
+        <span asp-validation-for="VdmtDescription"></span>
+    </div>
+    <div>
+        <label asp-for="VdmtImage"></label>
+        <input asp-for="VdmtImage" type="text" name="VdmtImage" />
+        <span asp-validation-for="VdmtImage"></span>
+    </div>
+    <div>
+        <label asp-for="VdmtPrice"></label>
+        <input asp-for="VdmtPrice" type="number" step="0.01" name="VdmtPrice" />
+        <span asp-validation-for="VdmtPrice"></span>
+    </div>
+    <div>
+        <label asp-for="VdmtPage"></label>
+        <input asp-for="VdmtPage" name="VdmtPage" />
+        <span asp-validation-for="VdmtPage"></span>
+    </div>
+    <button type="submit">Add Book</button>
+</form>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
