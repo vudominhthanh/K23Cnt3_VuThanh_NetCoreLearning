@@ -1,0 +1,33 @@
+﻿@model IEnumerable<Vdmt_Ls05.Models.VdmtMembers>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Members List</h1>
+
+<div>
+    <table class="table table-bordered table-hover">
+		<thead>
+			<tr>
+				<th>Member ID</th>
+				<th>Username</th>
+				<th>Password</th>
+				<th>Fullname</th>
+				<th>Email</th>
+			</tr>
+		</thead>
+		<tbody>
+			@foreach (var member in Model)
+			{
+				<tr>
+					<td>@member.VdmtMemberId</td>
+					<td>@member.VdmtUserName</td>	
+					<td>@member.VdmtPassword</td>
+					<td>@member.VdmtFullName</td>
+					<td>@member.VdmtEmail</td>
+				</tr>
+			}
+		</tbody>
+	</table>
+</div>
+
