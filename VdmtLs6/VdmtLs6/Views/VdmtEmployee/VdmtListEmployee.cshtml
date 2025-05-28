@@ -1,0 +1,46 @@
+﻿@model IEnumerable<VdmtLs6.Models.VdmtEmplyee>
+@{
+    ViewData["Title"] = "VdmtListEmployee";
+}
+
+<h1>Employee List</h1>
+<a asp-action="VdmtCreate" class="btn btn-success m-1">Them moi nhan vien</a>
+<div>
+    <table class="table table-bordered table-striped">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Họ Tên</th>
+                <th>Ngày Sinh</th>
+                <th>Email</th>
+                <th>SĐT</th>
+                <th>Lương</th>
+                <th>Trạng Thái</th>
+                <th>Function</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var emp in Model)
+            {
+                <tr>
+                    <td>@emp.VdmtId</td>
+                    <td>@emp.VdmtName</td>
+                    <td>@emp.VdmtBirthDay.ToString("dd/MM/yyyy")</td>
+                    <td>@emp.VdmtEmail</td>
+                    <td>@emp.VdmtPhone</td>
+                    <td>@emp.VdmtSalary.ToString("N0") VND</td>
+                    <td>
+                        @(emp.VdmtStatus ? "Đang làm" : "Nghỉ việc")
+                    </td>
+                    <td>
+                        <a class="btn btn-outline-primary m-1" asp-action="VdmtEdit" asp-route-vdmtid="@emp.VdmtId">Edit</a>
+                        <a class="btn btn-outline-danger m-1" asp-action="VdmtDelete" asp-route-vdmtid="@emp.VdmtId">Delete</a>
+						<!--onclick="return confirm('Bạn có chắc muốn xóa?');-->
+						<a></a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+</div>

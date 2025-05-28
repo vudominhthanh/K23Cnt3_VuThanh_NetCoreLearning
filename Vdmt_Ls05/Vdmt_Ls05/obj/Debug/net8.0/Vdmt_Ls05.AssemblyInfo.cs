@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Vdmt_Ls05")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+783ac7e7310172d71ac0ea58f3948711214a9dc7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ccf79fdd0fa70d9bb0d22300c8a690b4b1cf0ae7")]
 [assembly: System.Reflection.AssemblyProductAttribute("Vdmt_Ls05")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Vdmt_Ls05")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

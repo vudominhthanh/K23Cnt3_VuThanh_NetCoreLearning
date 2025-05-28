@@ -1,0 +1,39 @@
+﻿@model VdmtLs6.Models.VdmtEmplyee
+
+@{
+    ViewData["Title"] = "Xác nhận xóa nhân viên";
+}
+
+<h2 class="text-danger mb-4">Bạn có chắc muốn xóa nhân viên này?</h2>
+
+<div class="card">
+    <div class="card-body">
+        <dl class="row">
+            <dt class="col-sm-3">Họ tên</dt>
+            <dd class="col-sm-9">@Model.VdmtName</dd>
+
+            <dt class="col-sm-3">Ngày sinh</dt>
+            <dd class="col-sm-9">@Model.VdmtBirthDay.ToString("dd/MM/yyyy")</dd>
+
+            <dt class="col-sm-3">Email</dt>
+            <dd class="col-sm-9">@Model.VdmtEmail</dd>
+
+            <dt class="col-sm-3">SĐT</dt>
+            <dd class="col-sm-9">@Model.VdmtPhone</dd>
+
+            <dt class="col-sm-3">Lương</dt>
+            <dd class="col-sm-9">@Model.VdmtSalary.ToString("N0") VND</dd>
+
+            <dt class="col-sm-3">Trạng thái</dt>
+            <dd class="col-sm-9">
+                @(Model.VdmtStatus ? "Đang làm" : "Nghỉ việc")
+            </dd>
+        </dl>
+
+        <form asp-action="VdmtDelete" method="post">
+            <input type="hidden" asp-for="VdmtId" />
+            <button type="submit" class="btn btn-danger">Xóa</button>
+            <a asp-action="VdmtListEmployee" class="btn btn-secondary ms-2">Hủy</a>
+        </form>
+    </div>
+</div>
