@@ -1,0 +1,63 @@
+﻿@model vdmt_ls7.Models.Employee
+
+@{
+    ViewData["Title"] = "VdmtEdit";
+}
+
+<h1>VdmtEdit</h1>
+
+<h4>Employee</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="VdmtEdit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="VdmtId" class="control-label"></label>
+                <input asp-for="VdmtId" class="form-control" />
+                <span asp-validation-for="VdmtId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="VdmtName" class="control-label"></label>
+                <input asp-for="VdmtName" class="form-control" />
+                <span asp-validation-for="VdmtName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="VdmtBirthDay" class="control-label"></label>
+                <input asp-for="VdmtBirthDay" class="form-control" />
+                <span asp-validation-for="VdmtBirthDay" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="VdmtEmail" class="control-label"></label>
+                <input asp-for="VdmtEmail" class="form-control" />
+                <span asp-validation-for="VdmtEmail" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="VdmtPhone" class="control-label"></label>
+                <input asp-for="VdmtPhone" class="form-control" />
+                <span asp-validation-for="VdmtPhone" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="VdmtSalary" class="control-label"></label>
+                <input asp-for="VdmtSalary" class="form-control" />
+                <span asp-validation-for="VdmtSalary" class="text-danger"></span>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="VdmtStatus" /> @Html.DisplayNameFor(model => model.VdmtStatus)
+                </label>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-outline-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a class="btn btn-outline-success" asp-action="VdmtListEmployee">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

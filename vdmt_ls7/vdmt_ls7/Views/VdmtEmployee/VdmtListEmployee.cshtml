@@ -1,0 +1,71 @@
+﻿@model IEnumerable<vdmt_ls7.Models.Employee>
+
+@{
+    ViewData["Title"] = "VdmtListEmployee";
+}
+
+<h1>VdmtListEmployee</h1>
+
+<p>
+    <a class="btn btn-outline-primary" asp-action="VdmtCreate">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.VdmtId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.VdmtName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.VdmtBirthDay)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.VdmtEmail)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.VdmtPhone)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.VdmtSalary)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.VdmtStatus)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.VdmtId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.VdmtName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.VdmtBirthDay)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.VdmtEmail)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.VdmtPhone)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.VdmtSalary)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.VdmtStatus)
+            </td>
+            <td>
+                    @Html.ActionLink("Edit", "VdmtEdit", new { vdmtid = item.VdmtId } , new {@class = "btn btn-outline-secondary"}) |
+                    @Html.ActionLink("Details", "VdmtDetails", new { vdmtid = item.VdmtId }, new { @class = "btn btn-outline-success" }) |
+                    @Html.ActionLink("Delete", "VdmtDelete", new { vdmtid = item.VdmtId}, new { @class = "btn btn-outline-danger" })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

@@ -1,0 +1,60 @@
+﻿@model vdmt_ls7.Models.Employee
+
+@{
+    ViewData["Title"] = "VdmtDetails";
+}
+
+<h1>VdmtDetails</h1>
+
+<div>
+    <h4>Employee</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.VdmtId)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.VdmtId)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.VdmtName)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.VdmtName)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.VdmtBirthDay)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.VdmtBirthDay)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.VdmtEmail)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.VdmtEmail)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.VdmtPhone)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.VdmtPhone)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.VdmtSalary)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.VdmtSalary)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.VdmtStatus)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.VdmtStatus)
+        </dd>
+    </dl>
+</div>
+<div>
+    @Html.ActionLink("Edit", "VdmtEdit", new { vdmtid = Model.VdmtId }, new {@class = "btn btn-outline-danger"}) |
+    <a class="btn btn-outline-secondary" asp-action="VdmtListEmployee">Back to List</a>
+</div>
