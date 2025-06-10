@@ -1,0 +1,89 @@
+﻿@model IEnumerable<Vdmt_Lap8.Models.VdmtAccount>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.VdmtId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.VdmtFullName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.VdmtEmail)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.VdmtPhone)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.VdmtAddress)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.VdmtAvatar)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.VdmtBirthday)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.VdmtGender)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.VdmtPassword)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.VdmtFacebook)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.VdmtId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.VdmtFullName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.VdmtEmail)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.VdmtPhone)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.VdmtAddress)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.VdmtAvatar)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.VdmtBirthday)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.VdmtGender)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.VdmtPassword)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.VdmtFacebook)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36202.13 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vdmt_Lap8", "Vdmt_Lap8\Vdmt_Lap8.csproj", "{CCC2A823-452E-4173-8F0F-F4FC4944017D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCC2A823-452E-4173-8F0F-F4FC4944017D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCC2A823-452E-4173-8F0F-F4FC4944017D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCC2A823-452E-4173-8F0F-F4FC4944017D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCC2A823-452E-4173-8F0F-F4FC4944017D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E6B7E71-F33E-441D-8376-FEFA9DEAA04F}
+	EndGlobalSection
+EndGlobal
