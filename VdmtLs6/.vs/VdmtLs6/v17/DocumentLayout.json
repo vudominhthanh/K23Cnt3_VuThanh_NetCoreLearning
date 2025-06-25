@@ -1,9 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\VdmtLs6\\",
+  "WorkspaceRootPath": "D:\\Baitap\\NEtCore\\K23Cnt3_VuThanh_NetCoreLearning\\VdmtLs6\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9F5A1AF6-3A12-4C5D-B081-C4C4406D96EC}|VdmtLs6\\VdmtLs6.csproj|c:\\users\\admin\\source\\repos\\vdmtls6\\vdmtls6\\views\\vdmtemployee\\vdmtcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{9F5A1AF6-3A12-4C5D-B081-C4C4406D96EC}|VdmtLs6\\VdmtLs6.csproj|d:\\baitap\\netcore\\k23cnt3_vuthanh_netcorelearning\\vdmtls6\\vdmtls6\\views\\shared\\_vdmtnavbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F5A1AF6-3A12-4C5D-B081-C4C4406D96EC}|VdmtLs6\\VdmtLs6.csproj|solutionrelative:vdmtls6\\views\\shared\\_vdmtnavbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F5A1AF6-3A12-4C5D-B081-C4C4406D96EC}|VdmtLs6\\VdmtLs6.csproj|d:\\baitap\\netcore\\k23cnt3_vuthanh_netcorelearning\\vdmtls6\\vdmtls6\\controllers\\vdmtemployeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F5A1AF6-3A12-4C5D-B081-C4C4406D96EC}|VdmtLs6\\VdmtLs6.csproj|solutionrelative:vdmtls6\\controllers\\vdmtemployeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F5A1AF6-3A12-4C5D-B081-C4C4406D96EC}|VdmtLs6\\VdmtLs6.csproj|d:\\baitap\\netcore\\k23cnt3_vuthanh_netcorelearning\\vdmtls6\\vdmtls6\\views\\vdmtemployee\\vdmtlistemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F5A1AF6-3A12-4C5D-B081-C4C4406D96EC}|VdmtLs6\\VdmtLs6.csproj|solutionrelative:vdmtls6\\views\\vdmtemployee\\vdmtlistemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F5A1AF6-3A12-4C5D-B081-C4C4406D96EC}|VdmtLs6\\VdmtLs6.csproj|d:\\baitap\\netcore\\k23cnt3_vuthanh_netcorelearning\\vdmtls6\\vdmtls6\\models\\vdmtemplyee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F5A1AF6-3A12-4C5D-B081-C4C4406D96EC}|VdmtLs6\\VdmtLs6.csproj|solutionrelative:vdmtls6\\models\\vdmtemplyee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F5A1AF6-3A12-4C5D-B081-C4C4406D96EC}|VdmtLs6\\VdmtLs6.csproj|d:\\baitap\\netcore\\k23cnt3_vuthanh_netcorelearning\\vdmtls6\\vdmtls6\\views\\vdmtemployee\\vdmtcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9F5A1AF6-3A12-4C5D-B081-C4C4406D96EC}|VdmtLs6\\VdmtLs6.csproj|solutionrelative:vdmtls6\\views\\vdmtemployee\\vdmtcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -19,10 +35,62 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "_VdmtNavBar.cshtml",
+              "DocumentMoniker": "D:\\Baitap\\NEtCore\\K23Cnt3_VuThanh_NetCoreLearning\\VdmtLs6\\VdmtLs6\\Views\\Shared\\_VdmtNavBar.cshtml",
+              "RelativeDocumentMoniker": "VdmtLs6\\Views\\Shared\\_VdmtNavBar.cshtml",
+              "ToolTip": "D:\\Baitap\\NEtCore\\K23Cnt3_VuThanh_NetCoreLearning\\VdmtLs6\\VdmtLs6\\Views\\Shared\\_VdmtNavBar.cshtml",
+              "RelativeToolTip": "VdmtLs6\\Views\\Shared\\_VdmtNavBar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-04T02:44:58.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VdmtListEmployee.cshtml",
+              "DocumentMoniker": "D:\\Baitap\\NEtCore\\K23Cnt3_VuThanh_NetCoreLearning\\VdmtLs6\\VdmtLs6\\Views\\VdmtEmployee\\VdmtListEmployee.cshtml",
+              "RelativeDocumentMoniker": "VdmtLs6\\Views\\VdmtEmployee\\VdmtListEmployee.cshtml",
+              "ToolTip": "D:\\Baitap\\NEtCore\\K23Cnt3_VuThanh_NetCoreLearning\\VdmtLs6\\VdmtLs6\\Views\\VdmtEmployee\\VdmtListEmployee.cshtml",
+              "RelativeToolTip": "VdmtLs6\\Views\\VdmtEmployee\\VdmtListEmployee.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-04T02:44:51.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VdmtEmployeeController.cs",
+              "DocumentMoniker": "D:\\Baitap\\NEtCore\\K23Cnt3_VuThanh_NetCoreLearning\\VdmtLs6\\VdmtLs6\\Controllers\\VdmtEmployeeController.cs",
+              "RelativeDocumentMoniker": "VdmtLs6\\Controllers\\VdmtEmployeeController.cs",
+              "ToolTip": "D:\\Baitap\\NEtCore\\K23Cnt3_VuThanh_NetCoreLearning\\VdmtLs6\\VdmtLs6\\Controllers\\VdmtEmployeeController.cs",
+              "RelativeToolTip": "VdmtLs6\\Controllers\\VdmtEmployeeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T02:21:42.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VdmtEmplyee.cs",
+              "DocumentMoniker": "D:\\Baitap\\NEtCore\\K23Cnt3_VuThanh_NetCoreLearning\\VdmtLs6\\VdmtLs6\\Models\\VdmtEmplyee.cs",
+              "RelativeDocumentMoniker": "VdmtLs6\\Models\\VdmtEmplyee.cs",
+              "ToolTip": "D:\\Baitap\\NEtCore\\K23Cnt3_VuThanh_NetCoreLearning\\VdmtLs6\\VdmtLs6\\Models\\VdmtEmplyee.cs",
+              "RelativeToolTip": "VdmtLs6\\Models\\VdmtEmplyee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T02:18:28.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "VdmtCreate.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\VdmtLs6\\VdmtLs6\\Views\\VdmtEmployee\\VdmtCreate.cshtml",
+              "DocumentMoniker": "D:\\Baitap\\NEtCore\\K23Cnt3_VuThanh_NetCoreLearning\\VdmtLs6\\VdmtLs6\\Views\\VdmtEmployee\\VdmtCreate.cshtml",
               "RelativeDocumentMoniker": "VdmtLs6\\Views\\VdmtEmployee\\VdmtCreate.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\VdmtLs6\\VdmtLs6\\Views\\VdmtEmployee\\VdmtCreate.cshtml",
+              "ToolTip": "D:\\Baitap\\NEtCore\\K23Cnt3_VuThanh_NetCoreLearning\\VdmtLs6\\VdmtLs6\\Views\\VdmtEmployee\\VdmtCreate.cshtml",
               "RelativeToolTip": "VdmtLs6\\Views\\VdmtEmployee\\VdmtCreate.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",

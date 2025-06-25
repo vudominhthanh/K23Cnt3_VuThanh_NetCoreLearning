@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cBKjPw36WV8=",
+  "dgSpecHash": "6QHz9ni3QJ4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\VdmtLs6\\VdmtLs6\\VdmtLs6.csproj",
+  "projectFilePath": "D:\\Baitap\\NEtCore\\K23Cnt3_VuThanh_NetCoreLearning\\VdmtLs6\\VdmtLs6\\VdmtLs6.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

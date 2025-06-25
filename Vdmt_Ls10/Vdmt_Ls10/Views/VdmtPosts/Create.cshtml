@@ -1,0 +1,55 @@
+﻿@model Vdmt_Ls10.Models.VdmtPost
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>VdmtPost</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create" enctype="multipart/form-data">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Vdmtid" class="control-label"></label>
+                <input asp-for="Vdmtid" class="form-control" />
+                <span asp-validation-for="Vdmtid" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="VdmtTitle" class="control-label"></label>
+                <input asp-for="VdmtTitle" class="form-control" />
+                <span asp-validation-for="VdmtTitle" class="text-danger"></span>
+            </div>
+            <div class="mb-3">
+                <label asp-for="VdmtImage" class="form-label fw-semibold"></label>
+                <input asp-for="VdmtImage" class="form-control" type="file" />
+                <span asp-validation-for="VdmtImage" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="VdmtContent" class="control-label"></label>
+                <input asp-for="VdmtContent" class="form-control" />
+                <span asp-validation-for="VdmtContent" class="text-danger"></span>
+            </div>
+            <div class="mb-3">
+                <label asp-for="VdmtStatus" class="form-label fw-semibold"></label>
+                <select asp-for="VdmtStatus" class="form-select">
+                    <option value="">--Chọn trạng thái--</option>
+                    <option value="true">Hiển thị</option>
+                    <option value="false">Ẩn</option>
+                </select>
+                <span asp-validation-for="VdmtStatus" class="text-danger"></span>
+            </div>
+            <<div class="card-footer">
+                <button type="submit" class="btn btn-primary mr-2">Ghi lại</button>
+                <a asp-action="Index" class="btn btn-secondary">Quay lại danh sách</a>
+
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

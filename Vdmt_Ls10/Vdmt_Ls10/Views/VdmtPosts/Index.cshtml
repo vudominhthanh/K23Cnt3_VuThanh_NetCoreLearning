@@ -1,0 +1,61 @@
+﻿@model IEnumerable<Vdmt_Ls10.Models.VdmtPost>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.VdmtTitle)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.VdmtImage)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.VdmtContent)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.VdmtStatus)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.VdmtTitle)
+            </td>
+            <td>
+                    <img src="~/@item.VdmtImage" style="width:50px;" />
+
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.VdmtContent)
+            </td>
+            <td>
+                    @if (item.VdmtStatus == true)
+                    {
+                        <span class="badge bg-success">Hiển thị</span>
+                    }
+                    else
+                    {
+                        <span class="badge bg-danger">Tạm ẩn</span>
+                    }
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Vdmtid">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.Vdmtid">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.Vdmtid">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

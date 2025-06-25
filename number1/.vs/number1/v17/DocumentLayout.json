@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Baitap\\NEtCore\\K23Cnt3_VuThanh_NetCoreLearning\\number1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C2015A1-58DD-4982-9977-73F25B1F07B6}|number1\\number1.csproj|d:\\baitap\\netcore\\k23cnt3_vuthanh_netcorelearning\\number1\\number1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C2015A1-58DD-4982-9977-73F25B1F07B6}|number1\\number1.csproj|solutionrelative:number1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C2015A1-58DD-4982-9977-73F25B1F07B6}|number1\\number1.csproj|d:\\baitap\\netcore\\k23cnt3_vuthanh_netcorelearning\\number1\\number1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4C2015A1-58DD-4982-9977-73F25B1F07B6}|number1\\number1.csproj|solutionrelative:number1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C2015A1-58DD-4982-9977-73F25B1F07B6}|number1\\number1.csproj|d:\\baitap\\netcore\\k23cnt3_vuthanh_netcorelearning\\number1\\number1\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C2015A1-58DD-4982-9977-73F25B1F07B6}|number1\\number1.csproj|solutionrelative:number1\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C2015A1-58DD-4982-9977-73F25B1F07B6}|number1\\number1.csproj|d:\\baitap\\netcore\\k23cnt3_vuthanh_netcorelearning\\number1\\number1\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C2015A1-58DD-4982-9977-73F25B1F07B6}|number1\\number1.csproj|solutionrelative:number1\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C2015A1-58DD-4982-9977-73F25B1F07B6}|number1\\number1.csproj|d:\\baitap\\netcore\\k23cnt3_vuthanh_netcorelearning\\number1\\number1\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C2015A1-58DD-4982-9977-73F25B1F07B6}|number1\\number1.csproj|solutionrelative:number1\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C2015A1-58DD-4982-9977-73F25B1F07B6}|number1\\number1.csproj|d:\\baitap\\netcore\\k23cnt3_vuthanh_netcorelearning\\number1\\number1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C2015A1-58DD-4982-9977-73F25B1F07B6}|number1\\number1.csproj|solutionrelative:number1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C2015A1-58DD-4982-9977-73F25B1F07B6}|number1\\number1.csproj|d:\\baitap\\netcore\\k23cnt3_vuthanh_netcorelearning\\number1\\number1\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C2015A1-58DD-4982-9977-73F25B1F07B6}|number1\\number1.csproj|solutionrelative:number1\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C2015A1-58DD-4982-9977-73F25B1F07B6}|number1\\number1.csproj|d:\\baitap\\netcore\\k23cnt3_vuthanh_netcorelearning\\number1\\number1\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C2015A1-58DD-4982-9977-73F25B1F07B6}|number1\\number1.csproj|solutionrelative:number1\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C2015A1-58DD-4982-9977-73F25B1F07B6}|number1\\number1.csproj|d:\\baitap\\netcore\\k23cnt3_vuthanh_netcorelearning\\number1\\number1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C2015A1-58DD-4982-9977-73F25B1F07B6}|number1\\number1.csproj|solutionrelative:number1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C2015A1-58DD-4982-9977-73F25B1F07B6}|number1\\number1.csproj|d:\\baitap\\netcore\\k23cnt3_vuthanh_netcorelearning\\number1\\number1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C2015A1-58DD-4982-9977-73F25B1F07B6}|number1\\number1.csproj|solutionrelative:number1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C2015A1-58DD-4982-9977-73F25B1F07B6}|number1\\number1.csproj|d:\\baitap\\netcore\\k23cnt3_vuthanh_netcorelearning\\number1\\number1\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C2015A1-58DD-4982-9977-73F25B1F07B6}|number1\\number1.csproj|solutionrelative:number1\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C2015A1-58DD-4982-9977-73F25B1F07B6}|number1\\number1.csproj|d:\\baitap\\netcore\\k23cnt3_vuthanh_netcorelearning\\number1\\number1\\models\\number1context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C2015A1-58DD-4982-9977-73F25B1F07B6}|number1\\number1.csproj|solutionrelative:number1\\models\\number1context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Baitap\\NEtCore\\K23Cnt3_VuThanh_NetCoreLearning\\number1\\number1\\Models\\User.cs",
+              "RelativeDocumentMoniker": "number1\\Models\\User.cs",
+              "ToolTip": "D:\\Baitap\\NEtCore\\K23Cnt3_VuThanh_NetCoreLearning\\number1\\number1\\Models\\User.cs",
+              "RelativeToolTip": "number1\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T11:38:07.613Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\Baitap\\NEtCore\\K23Cnt3_VuThanh_NetCoreLearning\\number1\\number1\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "number1\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\Baitap\\NEtCore\\K23Cnt3_VuThanh_NetCoreLearning\\number1\\number1\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "number1\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-25T12:30:53.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\Baitap\\NEtCore\\K23Cnt3_VuThanh_NetCoreLearning\\number1\\number1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "number1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\Baitap\\NEtCore\\K23Cnt3_VuThanh_NetCoreLearning\\number1\\number1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "number1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-25T12:30:31.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\Baitap\\NEtCore\\K23Cnt3_VuThanh_NetCoreLearning\\number1\\number1\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "number1\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\Baitap\\NEtCore\\K23Cnt3_VuThanh_NetCoreLearning\\number1\\number1\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "number1\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-25T12:28:48.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\Baitap\\NEtCore\\K23Cnt3_VuThanh_NetCoreLearning\\number1\\number1\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "number1\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\Baitap\\NEtCore\\K23Cnt3_VuThanh_NetCoreLearning\\number1\\number1\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "number1\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-25T12:28:47.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "D:\\Baitap\\NEtCore\\K23Cnt3_VuThanh_NetCoreLearning\\number1\\number1\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "number1\\Models\\LoginViewModel.cs",
+              "ToolTip": "D:\\Baitap\\NEtCore\\K23Cnt3_VuThanh_NetCoreLearning\\number1\\number1\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "number1\\Models\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T12:18:35.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Baitap\\NEtCore\\K23Cnt3_VuThanh_NetCoreLearning\\number1\\number1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "number1\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Baitap\\NEtCore\\K23Cnt3_VuThanh_NetCoreLearning\\number1\\number1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "number1\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T12:00:12.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Baitap\\NEtCore\\K23Cnt3_VuThanh_NetCoreLearning\\number1\\number1\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "number1\\Views\\Login\\Index.cshtml",
+              "ToolTip": "D:\\Baitap\\NEtCore\\K23Cnt3_VuThanh_NetCoreLearning\\number1\\number1\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "number1\\Views\\Login\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-25T11:56:55.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "D:\\Baitap\\NEtCore\\K23Cnt3_VuThanh_NetCoreLearning\\number1\\number1\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "number1\\Controllers\\LoginController.cs",
+              "ToolTip": "D:\\Baitap\\NEtCore\\K23Cnt3_VuThanh_NetCoreLearning\\number1\\number1\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "number1\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T11:56:26.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Baitap\\NEtCore\\K23Cnt3_VuThanh_NetCoreLearning\\number1\\number1\\Program.cs",
+              "RelativeDocumentMoniker": "number1\\Program.cs",
+              "ToolTip": "D:\\Baitap\\NEtCore\\K23Cnt3_VuThanh_NetCoreLearning\\number1\\number1\\Program.cs",
+              "RelativeToolTip": "number1\\Program.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAwD0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T11:35:39.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Baitap\\NEtCore\\K23Cnt3_VuThanh_NetCoreLearning\\number1\\number1\\appsettings.json",
+              "RelativeDocumentMoniker": "number1\\appsettings.json",
+              "ToolTip": "D:\\Baitap\\NEtCore\\K23Cnt3_VuThanh_NetCoreLearning\\number1\\number1\\appsettings.json",
+              "RelativeToolTip": "number1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-25T11:35:05.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Number1Context.cs",
+              "DocumentMoniker": "D:\\Baitap\\NEtCore\\K23Cnt3_VuThanh_NetCoreLearning\\number1\\number1\\Models\\Number1Context.cs",
+              "RelativeDocumentMoniker": "number1\\Models\\Number1Context.cs",
+              "ToolTip": "D:\\Baitap\\NEtCore\\K23Cnt3_VuThanh_NetCoreLearning\\number1\\number1\\Models\\Number1Context.cs",
+              "RelativeToolTip": "number1\\Models\\Number1Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T11:30:07.641Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

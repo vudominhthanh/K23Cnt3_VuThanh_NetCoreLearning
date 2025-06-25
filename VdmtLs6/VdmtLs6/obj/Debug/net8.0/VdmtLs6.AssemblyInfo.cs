@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VdmtLs6")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d62dd5c177927429bfe889e3c8943fd2d783b4a5")]
 [assembly: System.Reflection.AssemblyProductAttribute("VdmtLs6")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VdmtLs6")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
