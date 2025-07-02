@@ -1,0 +1,64 @@
+﻿@model vudominnhthanh_2310900099.Models.VdmtEmployee
+
+@{
+    ViewData["Title"] = "Create Employee";
+}
+
+<div class="container mt-5">
+    <h2 class="mb-4">Create New Employee</h2>
+
+    <div class="card shadow rounded">
+        <div class="card-body">
+            <form asp-action="VdmtCreate" method="post">
+                <div asp-validation-summary="ModelOnly" class="text-danger mb-3"></div>
+
+                <div class="mb-3">
+                    <label asp-for="VdmtEmpId" class="form-label"></label>
+                    <input asp-for="VdmtEmpId" class="form-control" />
+                    <span asp-validation-for="VdmtEmpId" class="text-danger"></span>
+                </div>
+
+                <div class="mb-3">
+                    <label asp-for="VdmtEmpName" class="form-label"></label>
+                    <input asp-for="VdmtEmpName" class="form-control" />
+                    <span asp-validation-for="VdmtEmpName" class="text-danger"></span>
+                </div>
+
+                <div class="mb-3">
+                    <label asp-for="VdmtEmpLevel" class="form-label"></label>
+                    <input asp-for="VdmtEmpLevel" class="form-control" />
+                    <span asp-validation-for="VdmtEmpLevel" class="text-danger"></span>
+                </div>
+
+                <div class="mb-3">
+                    <label asp-for="VdmtEmpStartDate" class="form-label"></label>
+                    <input asp-for="VdmtEmpStartDate" class="form-control" type="date" />
+                    <span asp-validation-for="VdmtEmpStartDate" class="text-danger"></span>
+                </div>
+
+                <div class="mb-3">
+                    <label asp-for="VdmtEmpstatus" class="form-label">Status</label>
+                    <select asp-for="VdmtEmpstatus" class="form-select">
+                        <option value="1">Show</option>
+                        <option value="0">Hide</option>
+                    </select>
+                    <span asp-validation-for="VdmtEmpstatus" class="text-danger"></span>
+                </div>
+
+                <div class="text-center mt-4">
+                    <button type="submit" class="btn btn-outline-primary">💾 Create</button>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <div class="mt-3 text-start">
+        <a asp-action="VdmtIndex" class="btn btn-outline-success">⬅ Back to List</a>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

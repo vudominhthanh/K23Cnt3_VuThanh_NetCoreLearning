@@ -1,0 +1,45 @@
+﻿@model vudominnhthanh_2310900099.Models.VdmtEmployee
+
+@{
+    ViewData["Title"] = "Employee Details";
+}
+
+<div class="container mt-5">
+    <h2 class="mb-4">Employee Details</h2>
+
+    <div class="card shadow rounded">
+        <div class="card-body">
+            <dl class="row mb-0">
+                <dt class="col-sm-3">@Html.DisplayNameFor(model => model.VdmtEmpId)</dt>
+                <dd class="col-sm-9">@Html.DisplayFor(model => model.VdmtEmpId)</dd>
+
+                <dt class="col-sm-3">@Html.DisplayNameFor(model => model.VdmtEmpName)</dt>
+                <dd class="col-sm-9">@Html.DisplayFor(model => model.VdmtEmpName)</dd>
+
+                <dt class="col-sm-3">@Html.DisplayNameFor(model => model.VdmtEmpLevel)</dt>
+                <dd class="col-sm-9">@Html.DisplayFor(model => model.VdmtEmpLevel)</dd>
+
+                <dt class="col-sm-3">@Html.DisplayNameFor(model => model.VdmtEmpStartDate)</dt>
+                <dd class="col-sm-9">@Model.VdmtEmpStartDate?.ToString("yyyy-MM-dd")</dd>
+
+                <dt class="col-sm-3">@Html.DisplayNameFor(model => model.VdmtEmpstatus)</dt>
+                <dd class="col-sm-9">
+                    @if (Model.VdmtEmpstatus == 1)
+                    {
+                        <span class="badge bg-success">Show</span>
+                    }
+                    else
+                    {
+                        <span class="badge bg-secondary">Hide</span>
+                    }
+                </dd>
+            </dl>
+        </div>
+    </div>
+
+    <div class="mt-4 text-center">
+        <a asp-action="VdmtEdit" asp-route-VdmtId="@Model.VdmtEmpId" class="btn btn-outline-primary me-2">✏️ Edit</a>
+        <a asp-action="VdmtDelete" asp-route-VdmtId="@Model.VdmtEmpId" class="btn btn-outline-danger me-2">🗑 Delete</a>
+        <a asp-action="VdmtIndex" class="btn btn-outline-secondary">⬅ Back to List</a>
+    </div>
+</div>

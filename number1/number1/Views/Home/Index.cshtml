@@ -1,8 +1,74 @@
 ﻿@{
     ViewData["Title"] = "Home Page";
 }
+    <style>
+        /* Nền cố định */
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background-image: url('https://source.unsplash.com/1920x1080/?nature');
+            background-attachment: fixed;
+            background-size: cover;
+            background-position: center;
+        }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
-</div>
+        /* Khung chính với 3 cột */
+        .container {
+            display: grid;
+            grid-template-columns: 1fr 8fr 1fr;
+            min-height: 100vh;
+        }
+
+        /* Cột trống trái/phải */
+        article {
+            background-color: rgba(255, 255, 255, 0); /* hoàn toàn trong suốt */
+        }
+
+        /* Cột giữa chứa nội dung */
+        main {
+            background-color: rgba(255, 255, 255, 0.9);
+            padding: 20px;
+        }
+
+        header, nav, section, footer {
+            padding: 20px;
+            margin: 10px 0;
+            background-color: #f0f0f0;
+            border-radius: 10px;
+        }
+
+        nav {
+            background-color: #d9edf7;
+        }
+
+        section {
+            background-color: #fcf8e3;
+        }
+
+        footer {
+            background-color: #dff0d8;
+            text-align: center;
+        }
+    </style>
+
+	<div class="container">
+        <article></article> <!-- Bên trái trống -->
+
+        <main>
+            <header>
+                <h1>Trang Web Nền Cố Định</h1>
+            </header>
+
+            <section>
+                <h2>Nội dung chính</h2>
+                <p>Đây là phần nội dung chính nằm giữa trang, giữa hai khoảng trống.</p>
+            </section>
+
+            <footer>
+                <p>&copy; 2025 Trang web của bạn</p>
+            </footer>
+        </main>
+
+        <article></article> <!-- Bên phải trống -->
+    </div>
+

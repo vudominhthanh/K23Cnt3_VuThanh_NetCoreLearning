@@ -1,0 +1,54 @@
+﻿@model IEnumerable<vudominnhthanh_2310900099.Models.VdmtEmployee>
+
+@{
+    ViewData["Title"] = "List Employees";
+}
+
+<div class="container mt-5">
+    <h2 class="mb-4">List Employees</h2>
+
+    <div class="mb-3 text-end">
+        <a asp-action="VdmtCreate" class="btn btn-outline-success">➕ Create New</a>
+    </div>
+
+    <table class="table table-bordered table-striped table-hover align-middle text-center">
+        <thead class="table-success">
+            <tr>
+                <th>@Html.DisplayNameFor(model => model.First().VdmtEmpId)</th>
+                <th>@Html.DisplayNameFor(model => model.First().VdmtEmpName)</th>
+                <th>@Html.DisplayNameFor(model => model.First().VdmtEmpLevel)</th>
+                <th>@Html.DisplayNameFor(model => model.First().VdmtEmpStartDate)</th>
+                <th>@Html.DisplayNameFor(model => model.First().VdmtEmpstatus)</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.VdmtEmpId</td>
+                    <td>@item.VdmtEmpName</td>
+                    <td>@item.VdmtEmpLevel</td>
+                    <td>@item.VdmtEmpStartDate?.ToString("yyyy-MM-dd")</td>
+                    <td>
+                        @if (item.VdmtEmpstatus == 1)
+                        {
+                            <span class="badge bg-success">Show</span>
+                        }
+                        else
+                        {
+                            <span class="badge bg-secondary">Hide</span>
+                        }
+                    </td>
+                    <td>
+                        <div class="btn-group" role="group">
+                            <a asp-action="VdmtEdit" asp-route-VdmtId="@item.VdmtEmpId" class="btn btn-outline-success btn-sm">Edit</a>
+                            <a asp-action="VdmtDetails" asp-route-VdmtId="@item.VdmtEmpId" class="btn btn-outline-primary btn-sm">Details</a>
+                            <a asp-action="VdmtDelete" asp-route-VdmtId="@item.VdmtEmpId" class="btn btn-outline-danger btn-sm">Delete</a>
+                        </div>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

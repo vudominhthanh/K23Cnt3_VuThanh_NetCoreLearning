@@ -21,27 +21,23 @@ public partial class Number1Context : IdentityDbContext<User>
 
     public virtual DbSet<CardInfo> CardInfos { get; set; }
 
-    public virtual DbSet<User> Users { get; set; }
-
     public virtual DbSet<UserCard> UserCards { get; set; }
 
-    protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-
-        => optionsBuilder.UseSqlServer("Server=.\\VUDOMINHTHANH;Database=number1;uid=sa;pwd=1234;MultipleActiveResultSets=True;TrustServerCertificate=True");
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
+        base.OnModelCreating(modelBuilder);
         modelBuilder.Entity<Album>(entity =>
         {
             entity.ToTable("album");
 
-            entity.Property(e => e.AlbumId)
-                .ValueGeneratedNever()
-                .HasColumnName("albumId");
+            entity.Property(e => e.AlbumId).UseIdentityColumn();
+
             entity.Property(e => e.AlbumName)
                 .HasMaxLength(50)
                 .HasColumnName("albumName");
             entity.Property(e => e.Description).HasColumnName("description");
+
         });
 
         modelBuilder.Entity<CardInfo>(entity =>
@@ -68,29 +64,6 @@ public partial class Number1Context : IdentityDbContext<User>
             entity.HasOne(d => d.Album).WithMany(p => p.CardInfos)
                 .HasForeignKey(d => d.AlbumId)
                 .HasConstraintName("FK_cardInfo_album");
-        });
-
-        modelBuilder.Entity<User>(entity =>
-        {
-            entity.ToTable("users");
-
-            entity.Property(e => e.UserId)
-                .ValueGeneratedNever()
-                .HasColumnName("userId");
-            entity.Property(e => e.Email)
-                .HasMaxLength(250)
-                .HasColumnName("email");
-            entity.Property(e => e.Fullname)
-                .HasMaxLength(50)
-                .HasColumnName("fullname");
-            entity.Property(e => e.Own).HasColumnName("own");
-            entity.Property(e => e.Password)
-                .HasMaxLength(250)
-                .HasColumnName("password");
-            entity.Property(e => e.Status).HasColumnName("status");
-            entity.Property(e => e.Username)
-                .HasMaxLength(50)
-                .HasColumnName("username");
         });
 
         modelBuilder.Entity<UserCard>(entity =>

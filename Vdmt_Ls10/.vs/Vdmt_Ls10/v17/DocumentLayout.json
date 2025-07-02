@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "D:\\Baitap\\NEtCore\\K23Cnt3_VuThanh_NetCoreLearning\\Vdmt_Ls10\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E594A1A9-EE9E-4B49-824D-0EB84877C9F4}|Vdmt_Ls10\\Vdmt_Ls10.csproj|d:\\baitap\\netcore\\k23cnt3_vuthanh_netcorelearning\\vdmt_ls10\\vdmt_ls10\\views\\vdmtposts\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E594A1A9-EE9E-4B49-824D-0EB84877C9F4}|Vdmt_Ls10\\Vdmt_Ls10.csproj|solutionrelative:vdmt_ls10\\views\\vdmtposts\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E594A1A9-EE9E-4B49-824D-0EB84877C9F4}|Vdmt_Ls10\\Vdmt_Ls10.csproj|d:\\baitap\\netcore\\k23cnt3_vuthanh_netcorelearning\\vdmt_ls10\\vdmt_ls10\\models\\vdmtpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E594A1A9-EE9E-4B49-824D-0EB84877C9F4}|Vdmt_Ls10\\Vdmt_Ls10.csproj|solutionrelative:vdmt_ls10\\models\\vdmtpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E594A1A9-EE9E-4B49-824D-0EB84877C9F4}|Vdmt_Ls10\\Vdmt_Ls10.csproj|d:\\baitap\\netcore\\k23cnt3_vuthanh_netcorelearning\\vdmt_ls10\\vdmt_ls10\\views\\vdmtposts\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E594A1A9-EE9E-4B49-824D-0EB84877C9F4}|Vdmt_Ls10\\Vdmt_Ls10.csproj|solutionrelative:vdmt_ls10\\views\\vdmtposts\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E594A1A9-EE9E-4B49-824D-0EB84877C9F4}|Vdmt_Ls10\\Vdmt_Ls10.csproj|d:\\baitap\\netcore\\k23cnt3_vuthanh_netcorelearning\\vdmt_ls10\\vdmt_ls10\\models\\vdmtk23cnt3ls10dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E594A1A9-EE9E-4B49-824D-0EB84877C9F4}|Vdmt_Ls10\\Vdmt_Ls10.csproj|solutionrelative:vdmt_ls10\\models\\vdmtk23cnt3ls10dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E594A1A9-EE9E-4B49-824D-0EB84877C9F4}|Vdmt_Ls10\\Vdmt_Ls10.csproj|d:\\baitap\\netcore\\k23cnt3_vuthanh_netcorelearning\\vdmt_ls10\\vdmt_ls10\\views\\vdmtposts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E594A1A9-EE9E-4B49-824D-0EB84877C9F4}|Vdmt_Ls10\\Vdmt_Ls10.csproj|solutionrelative:vdmt_ls10\\views\\vdmtposts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E594A1A9-EE9E-4B49-824D-0EB84877C9F4}|Vdmt_Ls10\\Vdmt_Ls10.csproj|d:\\baitap\\netcore\\k23cnt3_vuthanh_netcorelearning\\vdmt_ls10\\vdmt_ls10\\models\\vdmtpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E594A1A9-EE9E-4B49-824D-0EB84877C9F4}|Vdmt_Ls10\\Vdmt_Ls10.csproj|solutionrelative:vdmt_ls10\\models\\vdmtpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E594A1A9-EE9E-4B49-824D-0EB84877C9F4}|Vdmt_Ls10\\Vdmt_Ls10.csproj|d:\\baitap\\netcore\\k23cnt3_vuthanh_netcorelearning\\vdmt_ls10\\vdmt_ls10\\views\\vdmtposts\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E594A1A9-EE9E-4B49-824D-0EB84877C9F4}|Vdmt_Ls10\\Vdmt_Ls10.csproj|solutionrelative:vdmt_ls10\\views\\vdmtposts\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E594A1A9-EE9E-4B49-824D-0EB84877C9F4}|Vdmt_Ls10\\Vdmt_Ls10.csproj|d:\\baitap\\netcore\\k23cnt3_vuthanh_netcorelearning\\vdmt_ls10\\vdmt_ls10\\views\\vdmtposts\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E594A1A9-EE9E-4B49-824D-0EB84877C9F4}|Vdmt_Ls10\\Vdmt_Ls10.csproj|solutionrelative:vdmt_ls10\\views\\vdmtposts\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E594A1A9-EE9E-4B49-824D-0EB84877C9F4}|Vdmt_Ls10\\Vdmt_Ls10.csproj|d:\\baitap\\netcore\\k23cnt3_vuthanh_netcorelearning\\vdmt_ls10\\vdmt_ls10\\controllers\\vdmtpostscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -54,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,20 +66,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
+              "Title": "VdmtK23cnt3Ls10DbContext.cs",
+              "DocumentMoniker": "D:\\Baitap\\NEtCore\\K23Cnt3_VuThanh_NetCoreLearning\\Vdmt_Ls10\\Vdmt_Ls10\\Models\\VdmtK23cnt3Ls10DbContext.cs",
+              "RelativeDocumentMoniker": "Vdmt_Ls10\\Models\\VdmtK23cnt3Ls10DbContext.cs",
+              "ToolTip": "D:\\Baitap\\NEtCore\\K23Cnt3_VuThanh_NetCoreLearning\\Vdmt_Ls10\\Vdmt_Ls10\\Models\\VdmtK23cnt3Ls10DbContext.cs",
+              "RelativeToolTip": "Vdmt_Ls10\\Models\\VdmtK23cnt3Ls10DbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T02:51:24.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "VdmtPost.cs",
               "DocumentMoniker": "D:\\Baitap\\NEtCore\\K23Cnt3_VuThanh_NetCoreLearning\\Vdmt_Ls10\\Vdmt_Ls10\\Models\\VdmtPost.cs",
               "RelativeDocumentMoniker": "Vdmt_Ls10\\Models\\VdmtPost.cs",
               "ToolTip": "D:\\Baitap\\NEtCore\\K23Cnt3_VuThanh_NetCoreLearning\\Vdmt_Ls10\\Vdmt_Ls10\\Models\\VdmtPost.cs",
               "RelativeToolTip": "Vdmt_Ls10\\Models\\VdmtPost.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-25T14:24:16.742Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "_ValidationScriptsPartial.cshtml",
               "DocumentMoniker": "D:\\Baitap\\NEtCore\\K23Cnt3_VuThanh_NetCoreLearning\\Vdmt_Ls10\\Vdmt_Ls10\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "Vdmt_Ls10\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
@@ -83,12 +100,11 @@
               "RelativeToolTip": "Vdmt_Ls10\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-25T14:18:26.133Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-25T14:18:26.133Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "D:\\Baitap\\NEtCore\\K23Cnt3_VuThanh_NetCoreLearning\\Vdmt_Ls10\\Vdmt_Ls10\\Views\\VdmtPosts\\Edit.cshtml",
               "RelativeDocumentMoniker": "Vdmt_Ls10\\Views\\VdmtPosts\\Edit.cshtml",
@@ -96,12 +112,11 @@
               "RelativeToolTip": "Vdmt_Ls10\\Views\\VdmtPosts\\Edit.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-25T14:10:09.054Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-25T14:10:09.054Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Details.cshtml",
               "DocumentMoniker": "D:\\Baitap\\NEtCore\\K23Cnt3_VuThanh_NetCoreLearning\\Vdmt_Ls10\\Vdmt_Ls10\\Views\\VdmtPosts\\Details.cshtml",
               "RelativeDocumentMoniker": "Vdmt_Ls10\\Views\\VdmtPosts\\Details.cshtml",
@@ -109,12 +124,11 @@
               "RelativeToolTip": "Vdmt_Ls10\\Views\\VdmtPosts\\Details.cshtml",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-25T14:09:23.332Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-25T14:09:23.332Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "D:\\Baitap\\NEtCore\\K23Cnt3_VuThanh_NetCoreLearning\\Vdmt_Ls10\\Vdmt_Ls10\\Views\\VdmtPosts\\Delete.cshtml",
               "RelativeDocumentMoniker": "Vdmt_Ls10\\Views\\VdmtPosts\\Delete.cshtml",
@@ -122,12 +136,11 @@
               "RelativeToolTip": "Vdmt_Ls10\\Views\\VdmtPosts\\Delete.cshtml",
               "ViewState": "AgIAABwAAAAAAAAAAAAcwB4AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-25T14:04:16.669Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-25T14:04:16.669Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Create.cshtml",
               "DocumentMoniker": "D:\\Baitap\\NEtCore\\K23Cnt3_VuThanh_NetCoreLearning\\Vdmt_Ls10\\Vdmt_Ls10\\Views\\VdmtPosts\\Create.cshtml",
               "RelativeDocumentMoniker": "Vdmt_Ls10\\Views\\VdmtPosts\\Create.cshtml",
@@ -135,12 +148,11 @@
               "RelativeToolTip": "Vdmt_Ls10\\Views\\VdmtPosts\\Create.cshtml",
               "ViewState": "AgIAACQAAAAAAAAAAAAAADIAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-25T14:00:36.996Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-25T14:00:36.996Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "D:\\Baitap\\NEtCore\\K23Cnt3_VuThanh_NetCoreLearning\\Vdmt_Ls10\\Vdmt_Ls10\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "Vdmt_Ls10\\Models\\ErrorViewModel.cs",
@@ -148,12 +160,11 @@
               "RelativeToolTip": "Vdmt_Ls10\\Models\\ErrorViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T02:43:40.088Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-25T02:43:40.088Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "VdmtHomeController.cs",
               "DocumentMoniker": "D:\\Baitap\\NEtCore\\K23Cnt3_VuThanh_NetCoreLearning\\Vdmt_Ls10\\Vdmt_Ls10\\Controllers\\VdmtHomeController.cs",
               "RelativeDocumentMoniker": "Vdmt_Ls10\\Controllers\\VdmtHomeController.cs",
@@ -161,12 +172,11 @@
               "RelativeToolTip": "Vdmt_Ls10\\Controllers\\VdmtHomeController.cs",
               "ViewState": "AgIAABcAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T02:43:38.727Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-25T02:43:38.727Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Baitap\\NEtCore\\K23Cnt3_VuThanh_NetCoreLearning\\Vdmt_Ls10\\Vdmt_Ls10\\appsettings.json",
               "RelativeDocumentMoniker": "Vdmt_Ls10\\appsettings.json",
@@ -184,14 +194,14 @@
               "RelativeDocumentMoniker": "Vdmt_Ls10\\Views\\VdmtPosts\\Index.cshtml",
               "ToolTip": "D:\\Baitap\\NEtCore\\K23Cnt3_VuThanh_NetCoreLearning\\Vdmt_Ls10\\Vdmt_Ls10\\Views\\VdmtPosts\\Index.cshtml",
               "RelativeToolTip": "Vdmt_Ls10\\Views\\VdmtPosts\\Index.cshtml",
-              "ViewState": "AgIAABsAAAAAAAAAAAAIwCsAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAIwCsAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-06-25T02:41:28.066Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "VdmtPostsController.cs",
               "DocumentMoniker": "D:\\Baitap\\NEtCore\\K23Cnt3_VuThanh_NetCoreLearning\\Vdmt_Ls10\\Vdmt_Ls10\\Controllers\\VdmtPostsController.cs",
               "RelativeDocumentMoniker": "Vdmt_Ls10\\Controllers\\VdmtPostsController.cs",
@@ -199,8 +209,7 @@
               "RelativeToolTip": "Vdmt_Ls10\\Controllers\\VdmtPostsController.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAQwHMAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T02:40:23.37Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-25T02:40:23.37Z"
             }
           ]
         }

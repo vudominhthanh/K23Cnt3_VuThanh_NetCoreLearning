@@ -5,7 +5,7 @@ namespace number1.Models;
 
 public partial class UserCard
 {
-    public int UserId { get; set; }
+    public string UserId { get; set; }
 
     public int CardId { get; set; }
 

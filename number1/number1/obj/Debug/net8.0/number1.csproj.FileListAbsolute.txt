@@ -145,3 +145,8 @@ D:\Baitap\NEtCore\K23Cnt3_VuThanh_NetCoreLearning\number1\number1\obj\Debug\net8
 D:\Baitap\NEtCore\K23Cnt3_VuThanh_NetCoreLearning\number1\number1\obj\Debug\net8.0\number1.pdb
 D:\Baitap\NEtCore\K23Cnt3_VuThanh_NetCoreLearning\number1\number1\obj\Debug\net8.0\number1.genruntimeconfig.cache
 D:\Baitap\NEtCore\K23Cnt3_VuThanh_NetCoreLearning\number1\number1\obj\Debug\net8.0\ref\number1.dll
+D:\Baitap\NEtCore\K23Cnt3_VuThanh_NetCoreLearning\number1\number1\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Baitap\NEtCore\K23Cnt3_VuThanh_NetCoreLearning\number1\number1\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Baitap\NEtCore\K23Cnt3_VuThanh_NetCoreLearning\number1\number1\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Baitap\NEtCore\K23Cnt3_VuThanh_NetCoreLearning\number1\number1\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\Baitap\NEtCore\K23Cnt3_VuThanh_NetCoreLearning\number1\number1\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll

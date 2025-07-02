@@ -58,9 +58,9 @@
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Baitap\\NEtCore\\K23Cnt3_VuThanh_NetCoreLearning\\VdmtLs9\\VdmtLs9\\Program.cs",
               "RelativeDocumentMoniker": "VdmtLs9\\Program.cs",
-              "ToolTip": "D:\\Baitap\\NEtCore\\K23Cnt3_VuThanh_NetCoreLearning\\VdmtLs9\\VdmtLs9\\Program.cs",
-              "RelativeToolTip": "VdmtLs9\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAVAAAAAAAAAA==",
+              "ToolTip": "D:\\Baitap\\NEtCore\\K23Cnt3_VuThanh_NetCoreLearning\\VdmtLs9\\VdmtLs9\\Program.cs*",
+              "RelativeToolTip": "VdmtLs9\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-17T15:57:24.632Z",
               "EditorCaption": ""
@@ -99,8 +99,7 @@
               "RelativeToolTip": "VdmtLs9\\Models\\Account.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T15:53:17.996Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-17T15:53:17.996Z"
             },
             {
               "$type": "Document",

@@ -31,7 +31,7 @@ namespace number1.Controllers
             if (ModelState.IsValid)
             {
                 var user = await userManager.FindByEmailAsync(model.Email);
-                if (user == null)
+                if (user != null)
                 {
                     var result = await signInManager.PasswordSignInAsync(model.Email, model.Password, model.RememberMe, lockoutOnFailure: false);
                     if (result.Succeeded)
@@ -56,6 +56,7 @@ namespace number1.Controllers
                     }
                 }
             }
+            return View(model);
         }
     }
 }
